@@ -6,15 +6,22 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 
 - Types:
   - Primitive Types
-    - number
-    - string
-    - boolean
-    - symbol
-    - void
-    - null
-    - undefined
+    - `number`
+    - `string`
+    - `boolean`
+    - `symbol`
+    - `void`
+    - `null`
+    - `undefined`
   - Object Types
-    - functions
-    - classes
-    - arrays
-    - objects
+    - `functions`
+    - `classes`
+    - `arrays`
+    - `objects`
+
+## Understanding Inference (Section 03, Lecture 20)
+
+- When to explicitly use type annotations:
+  - When we declare a variable on one line, then initialize it later
+  - When we want a variable to have a type that can't be inferred
+  - When a function returns the `any` type and we need to clarify the value
