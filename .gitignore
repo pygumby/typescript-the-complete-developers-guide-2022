@@ -105,3 +105,6 @@ dist
 
 # MacOS
 .DS_Store
+
+# TypeScript
+/01-fetchjson/**/*.js
