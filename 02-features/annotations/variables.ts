@@ -40,6 +40,16 @@ let foundWord: boolean // Here! However, initializing this with `false` would've
 
 for (let i = 0; i < words.length; i++) {
   if (words[i] === 'green') {
-    foundWord = true;
+    foundWord = true
+  }
+}
+
+// 3) Variables whose type cannot be inferred correctly
+let numbers = [-10, -1, 12]
+let numberAboveZero: boolean | number = false // Here!
+
+for (let i = 0; i < numbers.length; i++) {
+  if (numbers[i] > 0) {
+    numberAboveZero = numbers[i]
   }
 }
