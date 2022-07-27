@@ -14,3 +14,7 @@ const myCar = carMakers.pop()
 carMakers.map((carMaker: string): string => {
   return carMaker
 })
+
+// Flexible types
+const importantDates: (Date | string)[] = [new Date()]
+importantDates.push('2030-10-10')
