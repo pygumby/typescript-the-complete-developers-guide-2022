@@ -38,3 +38,7 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
   - `return null`
   - `return undefined`
 - Annotating a return type of `never` indicates that we'll never reach the end of the function, e.g., by throwing an error.
+
+## Arrays in TypeScript (Section 05, Lecture 31)
+
+- When initializing an empty array, we want to use type annotation: `const carMakers: string[] = []`
