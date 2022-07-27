@@ -29,5 +29,5 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 ## More on Annotations Around Functions (Section 04, Lecture 25)
 
 - Type inference for functions:
-  - TypeScript tries to figure out what type of value a function will return...
-  - ...but it will not try to figure out what type of value the arguments are.
+  - TypeScript tries to figure out what type of value a function will return but it won't try to figure out what type of value the arguments are.
+  - Every time we write out a function, we'll always add in both parameter _and_ return value annotations, because we want TypeScript to enforce the function's signature.
