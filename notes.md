@@ -42,3 +42,7 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 ## Arrays in TypeScript (Section 05, Lecture 31)
 
 - When initializing an empty array, we want to use type annotation: `const carMakers: string[] = []`
+
+## When to Use Arrays (Section 05. Lecture 34)
+
+- When to use typed arrays? Any time we need to represent a collection of records with some arbitrary sort order.
