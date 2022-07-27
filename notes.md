@@ -43,6 +43,11 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 
 - When initializing an empty array, we want to use type annotation: `const carMakers: string[] = []`
 
-## When to Use Arrays (Section 05. Lecture 34)
+## When to Use Arrays (Section 05, Lecture 34)
 
 - When to use typed arrays? Any time we need to represent a collection of records with some arbitrary sort order.
+
+## Tuples in TypeScript (Section 06, Lecture 35)
+
+- Definition: Array-like strucure, where each element represents some property of a record
+- Example: `[ brown, true, 40 ]` (pseudo code) can represent a drink by its color, carbonation and sugar content -- element order matters!
