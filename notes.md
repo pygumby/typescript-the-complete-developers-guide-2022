@@ -70,7 +70,7 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 
 - Definition: Blueprint to create an object with some fields (values) and methods (functions) to represent a "thing"
 
-## Inheritance Method Modifiers (Section 47, Lecture 47)
+## Inheritance Method Modifiers (Section 08, Lecture 47)
 
 - public (default): This method can be called anywhere, anytime.
 - private: This method can only be called by other methods in this class.
