@@ -51,3 +51,7 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 
 - Definition: Array-like strucure, where each element represents some property of a record
 - Example: `[ brown, true, 40 ]` (pseudo code) can represent a drink by its color, carbonation and sugar content -- element order matters!
+
+## Interfaces (Section 07, Lecture 38)
+
+- Definition: Creates a new type, describing the property names and value types of an object
