@@ -55,3 +55,7 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 ## Interfaces (Section 07, Lecture 38)
 
 - Definition: Creates a new type, describing the property names and value types of an object
+
+## Code Reuse with Interfaces (Section 07, Lecture 43)
+
+- I believe TypeScript supports duck typing, see [02-features/interfaces.ts](02-features/interfaces.ts).
