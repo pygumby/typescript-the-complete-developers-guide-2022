@@ -65,3 +65,7 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 - General strategy for reusable code in TS:
   - Create functions that accept arguments that are typed with interfaces.
   - Objects/classes can decide to "implment" a given interface to work with a function.
+
+## Classes (Section 08, Lecture 45)
+
+- Definition: Blueprint to create an object with some fields (values) and methods (functions) to represent a "thing"
