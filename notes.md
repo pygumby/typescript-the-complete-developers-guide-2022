@@ -59,3 +59,9 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 ## Code Reuse with Interfaces (Section 07, Lecture 43)
 
 - I believe TypeScript supports duck typing, see [02-features/interfaces.ts](02-features/interfaces.ts).
+
+## General Plan with Interfaces (Section 07, Lecture 44)
+
+- General strategy for reusable code in TS:
+  - Create functions that accept arguments that are typed with interfaces.
+  - Objects/classes can decide to "implment" a given interface to work with a function.
