@@ -75,3 +75,7 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 - public (default): This method can be called anywhere, anytime.
 - private: This method can only be called by other methods in this class.
 - protected: This method can be called by other methods in this class or by other methods in child classes.
+
+## Export Statements in TypeScript (Section 09, Lecture 58)
+
+- Convention in TypeScript is to never use `export default` statements.
