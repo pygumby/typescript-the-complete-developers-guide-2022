@@ -79,3 +79,7 @@ Notes by Lucas Konstantin Bärenfänger (@lkbaerenfaenger)
 ## Export Statements in TypeScript (Section 09, Lecture 58)
 
 - Convention in TypeScript is to never use `export default` statements.
+
+## Optional Implements Clauses (Section 09, Lecture 74)
+
+- Using the `implements` keyword, it can be made explicit that a class implements an interface.
