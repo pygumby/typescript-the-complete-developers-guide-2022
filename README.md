@@ -1,4 +1,5 @@
 # typescript-the-complete-developers-guide-2022
+
 Me coding along Stephen Grider's Udemy course "TypeScript: The Complete Developer's Guide" (2022 edition)
 
 My course notes can be found here: [notes.md](notes.md)
@@ -13,8 +14,8 @@ My course notes can be found here: [notes.md](notes.md)
 | ✓ done        | Section 06: Tuples in Typescript                   | [02-features/tuples.ts](02-features/tuples.ts)         |
 | ✓ done        | Section 07: The All-Important Interface            | [02-features/interfaces.ts](02-features/interfaces.ts) |
 | ✓ done        | Section 08: Building Functionality with Classes    | [02-features/classes.ts](02-features/classes.ts)       |
-| ➔ in progress | Section 09: Design Patterns with Typescript        | [03-maps/](03-maps/)                                   |
-|               | Section 10: More on Design Patterns                |                                                        |
+| ✓ done        | Section 09: Design Patterns with Typescript        | [03-maps/](03-maps/)                                   |
+| ➔ in progress | Section 10: More on Design Patterns                |                                                        |
 |               | Section 11: Reusable Code                          |                                                        |
 |               | Section 12: Advanced Generics                      |                                                        |
 |               | Section 13: Let's Build a Web Framework            |                                                        |
