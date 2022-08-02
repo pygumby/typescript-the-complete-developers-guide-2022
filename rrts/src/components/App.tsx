@@ -6,7 +6,7 @@ import { StoreState } from '../reducers'
 
 interface AppProps {
   todos: Todo[]
-  fetchTodos: typeof fetchTodos
+  fetchTodos: Function // better, but currently impossible: `typeof fetchTodos`
   deleteTodo: typeof deleteTodo
 }
 
