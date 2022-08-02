@@ -23,4 +23,4 @@ My course notes can be found here: [notes.md](notes.md)
 | ✕ skipped | Section 15: Decorators                             | n/a                                              |
 | ✕ skipped | Section 16: Advanced Express and TS Integration    | n/a                                              |
 | ✓ done    | Section 17: React and Redux with Typescript        | [rrts/](rrts/)                                   |
-|           | Section 18: Extras                                 |                                                  |
+| ✓ done    | Section 18: Extras                                 | n/a                                              |
